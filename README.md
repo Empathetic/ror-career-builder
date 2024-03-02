@@ -1,7 +1,7 @@
-# Return of Reckoning (RoR) Career Builder
-
 ## 2024 Update
 This project has been forked and now actively maintained by other devs here: [https://github.com/dalen/RoRBuilder](https://github.com/dalen/RoRBuilder)
+
+# Return of Reckoning (RoR) Career Builder
 
 Repository for the RoR Career Builder web app. An online resource for players of the independently run reboot of Warhammer: Age of Reckoning, now known as [Return of Reckoning](https://www.returnofreckoning.com/).
 
